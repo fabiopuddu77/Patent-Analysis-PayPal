@@ -1,0 +1,9 @@
+wheel
+numpy
+pandas
+nltk
+matplotlib
+networkx
+seaborn
+
+Pillow
