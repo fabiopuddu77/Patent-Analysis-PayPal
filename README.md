@@ -1,7 +1,6 @@
 
-# Descrizione Progetto Paypal #
+# Description Patent analysis Paypal #
 
-Si sono analizzati i brevetti dell'Azienda Paypal per capire in che
-direzione stesse andando l'azienda dal punto di vista dell'innovazione. 
-In quale aree sta investendo di più e in quali altre dovrebbe investire.
-Con un analisi degli abstract brevettuali e della teoria dei network.
+The patents of the Paypal Company were analysed in order to understand
+in which direction the company was going from the point of view of innovation. 
+In which areas it is investing more and in which areas it should invest. With an analysis of patent abstracts and network theory.
